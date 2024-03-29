@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Anani999
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning how make crores using internet 
 - 📫 How to reach me mail rareandfunny@gmail.com
 
 <!---
